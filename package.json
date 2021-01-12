@@ -1,0 +1,15 @@
+{
+  "name": "@selfage/tsconfig",
+  "version": "0.0.1",
+  "description": "Consistent tsconfig across @selfage packages.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfage/tsconfig.git"
+  },
+  "author": "Yuxuan Xie <teststaybaka@gmail.com> (http://www.yuxuanxie.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/selfage/tsconfig/issues"
+  },
+  "homepage": "https://github.com/selfage/tsconfig#readme",
+}
