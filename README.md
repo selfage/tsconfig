@@ -2,9 +2,10 @@
 
 Provides a opinionated but consistent tsconfig file across all @selfage packages.
 
-Compiling to ES5 for best compability.
+Compiling to ES6.
 
-No --strictNullChecks because it might give false impression that we are safe from null pointer exceptions at runtime.
+No --strictNullChecks because it might give false impression that we are safe
+from null pointer exceptions at runtime.
 
 ## Usage
 
