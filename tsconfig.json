@@ -1,17 +1,16 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "es6"],
-    "target": "es5",
+    "target": "es6",
     "module": "commonjs",
     "moduleResolution": "Node",
-    "downlevelIteration": true,
     "esModuleInterop": true,
     "alwaysStrict": true,
     "noImplicitAny": true,
     "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
     "inlineSourceMap": true,
     "inlineSources": true,
-    "noUnusedLocals": true,
     "skipLibCheck": true,
     "declaration": true,
     "incremental": true
