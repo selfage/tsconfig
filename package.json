@@ -1,6 +1,6 @@
 {
   "name": "@selfage/tsconfig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Consistent tsconfig across @selfage packages.",
   "repository": {
     "type": "git",
@@ -11,5 +11,6 @@
   "bugs": {
     "url": "https://github.com/selfage/tsconfig/issues"
   },
-  "homepage": "https://github.com/selfage/tsconfig#readme"
+  "homepage": "https://github.com/selfage/tsconfig#readme",
+  "main": "./tsconfig.json"
 }
