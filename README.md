@@ -9,4 +9,4 @@ from null pointer exceptions at runtime.
 
 ## Usage
 
-Add `extends: "@selfage/tsconfig/tsconfig"` to your tsconfig.json.
+Add `extends: "@selfage/tsconfig"` to your tsconfig.json.
