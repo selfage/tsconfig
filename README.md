@@ -20,7 +20,8 @@ Add `extends: "@selfage/tsconfig"` to your tsconfig.json.
   "compilerOptions": {
     "target": "es6",
     "module": "commonjs",
-    "moduleResolution": "Node",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
     "esModuleInterop": true,
     "alwaysStrict": true,
     "noImplicitAny": true,
