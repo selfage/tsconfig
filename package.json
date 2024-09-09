@@ -1,6 +1,6 @@
 {
   "name": "@selfage/tsconfig",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Consistent tsconfig across @selfage packages.",
   "repository": {
     "type": "git",
